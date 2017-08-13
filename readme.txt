@@ -8,11 +8,11 @@ Stable tag: 4.5
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Facebook Widget - simple like page box with share, timeline, events, messages and more options (Facebook SDK JS v2.8).
+Facebook Widget - simple like page box with share, timeline, events, messages and more options (Facebook SDK JS v2.10).
 
 == Description ==
 
-Facebook Widget (Facebook SDK for JavaScript v2.8)
+Facebook Widget (Facebook SDK for JavaScript v2.10)
 
 = Widget - Facebook Page Plugin options: =
 * responsive
@@ -47,6 +47,9 @@ Facebook Widget (Facebook SDK for JavaScript v2.8)
 Make sure you get the latest version.
 
 == Changelog ==
+
+= 1.2.0 =
+* change Facebook SDK for JavaScript version from 2.8 to 2.10
 
 = 1.1.0 =
 * change Facebook SDK for JavaScript version from 2.6 to 2.8
