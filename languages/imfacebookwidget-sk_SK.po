@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IM Facebook Widget v1.00\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-21 16:35+0100\n"
+"PO-Revision-Date: 2017-01-21 16:36+0100\n"
+"Last-Translator: Igor Mojto <info@imwebdeveloper.com>\n"
+"Language-Team: Igor Mojto <info@imwebdeveloper.com>\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: imfacebookwidget.php:34
+msgid ""
+"Please deactivate and activate plugin IM Facebook Widget (for loading "
+"Facebook available language)!"
+msgstr ""
+"Prosím deaktivujte a aktivujte plugin IM Facebook Widget (pre načítanie "
+"Facebook dostupných jazykov)!"
+
+#: includes/widgets/pagelikebox.php:10
+msgid "IM Facebook Page Like Box"
+msgstr "IM Facebook Page Like Box"
+
+#: includes/widgets/pagelikebox.php:11
+msgid "Widget for Facebook Page Like Box."
+msgstr "Widget for Facebook Page Like Box."
+
+#: includes/widgets/pagelikebox.php:76
+msgid "Title:"
+msgstr "Názov"
+
+#: includes/widgets/pagelikebox.php:78
+msgid "Widget name."
+msgstr "Názov widgetu."
+
+#: includes/widgets/pagelikebox.php:81
+msgid "App ID:"
+msgstr "App ID:"
+
+#: includes/widgets/pagelikebox.php:83
+msgid "Set App ID."
+msgstr "Nastav App ID."
+
+#: includes/widgets/pagelikebox.php:86
+msgid "URL:"
+msgstr "URL:"
+
+#: includes/widgets/pagelikebox.php:88
+msgid "Facebook page URL."
+msgstr "URL adresa stránky."
+
+#: includes/widgets/pagelikebox.php:91
+msgid "Tabs:"
+msgstr "Záložky:"
+
+#: includes/widgets/pagelikebox.php:93
+msgid ""
+"Tabs to render i.e. timeline, events, messages. Use a comma-separated list "
+"to add multiple tabs, i.e. timeline, events. (To hide posts set empty field "
+"value)"
+msgstr ""
+"Záložky k widgetu: timeline, events, messages. Použite zoznam oddelený "
+"čiarkami pre pridanie ďalších záložiek, napr.: timeline, events. (ak chcete "
+"skryť príspevky nastavte prázdnu hodnotu poľa)"
+
+#: includes/widgets/pagelikebox.php:96
+msgid "Width:"
+msgstr "Šírka:"
+
+#: includes/widgets/pagelikebox.php:98
+msgid ""
+"The pixel width of the widget. Minimum is 180 and maximum is 500. (default: "
+"340)"
+msgstr ""
+"Šírka widgetu v pixeloch. Minimálne: 180, maximálne: 500. (prednastavená "
+"hodnota: 340)"
+
+#: includes/widgets/pagelikebox.php:101
+msgid "Height:"
+msgstr "Výška:"
+
+#: includes/widgets/pagelikebox.php:103
+msgid "The pixel height of the widget. Minimum is 70. (default: 500)"
+msgstr "Výška widgetu v pixeloch. Minimálne: 70. (prednastavená hodnota: 500)"
+
+#: includes/widgets/pagelikebox.php:111
+msgid "Language:"
+msgstr "Jazyk:"
+
+#: includes/widgets/pagelikebox.php:115
+msgid "Set Facebook Language."
+msgstr "Nastav jazyk facebooku."
+
+#: includes/widgets/pagelikebox.php:121
+msgid "Hide Cover Photo. (default: no)"
+msgstr "Skryť úvodnú fotku stránky. (prednastavená hodnota: nie)"
+
+#: includes/widgets/pagelikebox.php:124
+msgid "Show Friend's Faces. (default: yes)"
+msgstr "Zobraz tváre priateľov. (prednastavená hodnota: áno)"
+
+#: includes/widgets/pagelikebox.php:127
+msgid "Hide the custom call to action button (if available). (default: no)"
+msgstr ""
+"Skryť vlastné call to action tlačidlo (ak je k dispozícii).  (prednastavená "
+"hodnota: nie)"
+
+#: includes/widgets/pagelikebox.php:130
+msgid "Use Small Header. (default: no)"
+msgstr "Použi zmenšenú hlavičku. (prednastavená hodnota: nie)"
+
+#: includes/widgets/pagelikebox.php:133
+msgid "Adapt to widget container width. (default: yes)"
+msgstr "Prispôsobiť šírku widgetu sidebaru. (prednastavená hodnota: áno)"
+
+#~ msgid ""
+#~ "Tabs to render i.e. timeline, events, messages. Use a comma-separated "
+#~ "list to add multiple tabs, i.e. timeline, events. (To hide posts set "
+#~ "empty value)"
+#~ msgstr ""
+#~ "Záložky k widgetu: timeline, events, messages. Použite zoznam oddelený "
+#~ "čiarkami pre pridanie ďalších záložiek, napr.: timeline, events. (pre "
+#~ "skrytie príspevkov nastavte)"
+
+#~ msgid ""
+#~ "Tabs to render i.e. timeline, events, messages. Use a comma-separated "
+#~ "list to add multiple tabs, i.e. timeline, events. (default: timeline)"
+#~ msgstr ""
+#~ "Záložky k widgetu: timeline, events, messages. Použite zoznam oddelený "
+#~ "čiarkami pre pridanie ďalších záložiek, napr.: timeline, events. "
+#~ "(prednastavená hodnota: timeline)"
+
+#~ msgid "Show posts? (default: true)"
+#~ msgstr "Zobraziť príspevky? (prednastavená hodnota: áno)"
+
+#~ msgid "IM Facebook Page Like"
+#~ msgstr "IM Facebook Page Like"
+
+#~ msgid "Facebook Page Like Box."
+#~ msgstr "Facebook Page Like Box."
+
+#~ msgid "The pixel height of the plugin. Minimum is 70. (default: 500)"
+#~ msgstr "Výška widgetu v pixeloch"
+
+#~ msgid "Adapt to plugin container width. (default: yes)"
+#~ msgstr "Prispôsobiť šírku pluginu sidebaru. (prednastavená hodnota: áno)"
+
+#~ msgid "Title"
+#~ msgstr "Názov"
+
+#~ msgid "Width"
+#~ msgstr "Šírka"
