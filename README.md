@@ -1,5 +1,5 @@
 # IM Facebook Widget
-Wordpress plugin for facebook widget - simple like page box with share, timeline, events, messages and more options (Facebook SDK JS v2.8).
+Wordpress plugin for facebook widget - simple like page box with share, timeline, events, messages and more options (Facebook SDK JS v2.10).
 
 ## Installation
 1. Install the plugin through the Plugins interface or by uploading the `imfacebookwidget` directory to your `/wp-content/plugins/` directory.
