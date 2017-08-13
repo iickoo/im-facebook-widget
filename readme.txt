@@ -3,10 +3,10 @@ Contributors: Igor Mojto
 Donate link: http://www.imwebdeveloper.com/
 Tags: facebook, facebook like, facebook like box, facebook like page, facebook widget, facebook fanpage, facebook fanpage like, facebook share, facebook fanpage share, facebook timeline, facebook events, facebook messages, facebook page plugin, widget
 Requires at least: 4.5.0
-Tested up to: 4.7.1
+Tested up to: 4.8.1
 Stable tag: 4.5
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Facebook Widget - simple like page box with share, timeline, events, messages and more options (Facebook SDK JS v2.8).
 
