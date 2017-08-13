@@ -1,5 +1,5 @@
 === IM Facebook Widget ===
-Contributors: Igor Mojto
+Contributors: iickoo
 Donate link: http://www.imwebdeveloper.com/
 Tags: facebook, facebook like, facebook like box, facebook like page, facebook widget, facebook fanpage, facebook fanpage like, facebook share, facebook fanpage share, facebook timeline, facebook events, facebook messages, facebook page plugin, widget
 Requires at least: 4.5.0
